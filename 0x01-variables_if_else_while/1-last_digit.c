@@ -8,7 +8,7 @@ int main(void)
 {
         int n;
 	int a;
-	a = (n % 10);
+	a = n % 10;
 
         srand(time(0));
         n = rand() - RAND_MAX / 2;
