@@ -3,8 +3,8 @@
 #include <stdio.h>
 
 /**
- * main - Determines if a number is positive, negative or zero.
- *
+ * main - This progran will generate numbers 
+ * randomly and detects if it is positive, zero or negative.
  * Return: Always 0 (Success)
  */
 int main(void)
