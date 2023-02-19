@@ -4,7 +4,8 @@
 
 /**
  * main - This progran will generate numbers 
- * randomly and detects if it is positive, zero or negative.
+ * randomly and detects if it is positive,
+ * zero or negative.
  * Return: Always 0 (Success)
  */
 int main(void)
