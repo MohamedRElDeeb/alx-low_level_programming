@@ -1,5 +1,6 @@
 #include <stdlib.h>
-#include "holberton.h"
+#include "main.h"
+#include <stdio.h>
 
 /**
  * **alloc_grid - creates a two dimensional array of ints
