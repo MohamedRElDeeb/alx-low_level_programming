@@ -9,7 +9,7 @@
 
 int main(void)
 {
-	int i, j, x = 8, z = 9;
+	int i, j;
 
 	for (i = 0; i <= 8; i++)
 	{
@@ -17,11 +17,8 @@ int main(void)
 		{
 			putchar('0' + i);
 			putchar('0' + j);
-			if ((i != x) || (j != z))
-			{
-				putchar(',');
-				putchar(' ');
-			}
+			putchar(',');
+			putchar(' ');
 		}
 	}
 	putchar('\n');
